@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "name": "Cofferoasters",
+        "image": "./images/cofferoasters.png",
+        "gitHub": "https://github.com/fotih2005/Cofferoasters.git",
+        "Link": "",
+        "technologies": [
+            "JavaScript"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Gilos uz",
+        "image": "./images/Gilosuz.png",
+        "gitHub": "https://github.com/fotih2005/Gilos.uz.git",
+        "Link": "https://marvelous-cheesecake-695d9d.netlify.app",
+        "technologies": [
+            "JavaScript"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Bubur Blog",
+        "image": "./images/BoburBlog.png",
+        "gitHub": "https://github.com/fotih2005/blogPage.git",
+        "Link": "https://glittering-mandazi-5ffe60.netlify.app",
+        "technologies": [
+            "React",
+            "Redux"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "To Do List",
+        "image": "./images/ToDo.png",
+        "gitHub": "https://github.com/fotih2005/exam-4.git",
+        "Link": "https://frolicking-cannoli-3b8aa7.netlify.app",
+        "technologies": [
+            "JavaScript"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Game bot",
+        "image": "./images/TelegramBot.png",
+        "gitHub": "https://github.com/fotih2005/TgBot.git",
+        "Link": "https://t.me/FotihGame_bot/",
+        "technologies": [
+            "Node.js"
+        ]
+    }
+]
