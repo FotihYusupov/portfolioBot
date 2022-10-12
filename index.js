@@ -86,6 +86,9 @@ bot.on("message", (msg) => {
             
 ⚒ Technologies:
     ${foundProject.technologies}
+
+    GitHub: ${foundProject.gitHub}
+    Link: ${foundProject.Link}
             `,
       parse_mode: "HTML",
     });
